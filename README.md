@@ -6,7 +6,7 @@ KNN algorithm is a simple algorithm used for both Regression and Classification 
 
 There are large varieties of options to choose as a metric; however, I chose to go forward with Euclidean Distance as an example, which is used to calculate the Distance between vectors.
 
-Also, there are multiple methods you can go forward with, but I have chosen Brute Force which has a time complexity of O(n*m) where n is the number of test data points and m is the number of training Data Points. We can chose forward to go with multiple dimensions of Data Points, but I have selected 2-Dimensional data as it is easy to visualize and explain.
+Also, there are multiple methods you can go forward with, but I have chosen Brute Force which has a time complexity of O(n*m) where n is the number of test data points and m is the number of training Data Points. We can choose to go forward with Multi-Dimensional Data, but I have selected 2-Dimensional data as it is easy to visualize and explain.
 
 ## Results
 
