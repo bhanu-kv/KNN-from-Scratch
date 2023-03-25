@@ -1,4 +1,4 @@
-# KNN-from-Scratch
+# KNN from Scratch
 
 KNN algorithm is a simple algorithm used for both Regression and Classification which I have built from scratch without using any pre-built libraries like sci-pi and scikit learn, it is one of the most intutive algorithm which is easier to understand and explain.
 
